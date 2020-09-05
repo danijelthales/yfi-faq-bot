@@ -1,0 +1,13 @@
+{
+  "title": "Question 1:",
+  "description": "How can I yield farm or earn $YFI?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "At this time no more $YFI is going to be minted meaning total supply is capped at the 30,000 already in circulation. \nCurrently a few of the top research firms are working on proposals, but it's unclear whether these will be passed and / or implemented. It's possible that no more $YFI will ever be minted and protocol fees will be used to fund security audits and other operations.",
+      "inline": true
+    }
+  ],
+  "footer": {}
+}

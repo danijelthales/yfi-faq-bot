@@ -1,0 +1,18 @@
+how long till rewards?
+all defi token prices?
+something about 24h wait period
+Integrate snx tools
+what is grants dao
+search aliases
+Calculate rewards for given input, e.g. rewards for 100 SNX
+freezing purging process?
+Introduce a database for question that users can edit via UI or chat with the bot
+subscribe to gas prices
+countdown till rewards
+current minting price
+current claim price
+!faq when snapshot?
+!faq countdown
+about tipbot
+You are expected to receive 100 SNX or 3900 USD for 8008 staked SNX
+Claim price

@@ -1,0 +1,12 @@
+{
+  "title": "Question 17:",
+  "description": "What is a YIP?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "The yEarn Improvement Proposals (YIPs) describe standards for the yEarn platform, including core protocol specifications, client APIs, and contract standards. \n\nThis is the definitive, cannonical reference specification for the core logic.\n\nYIPs are proposed and voted by the YFI community.\n\n[Here](https://yips.yearn.finance/all-yip)you can find a list of YIPs"
+    }
+  ],
+  "footer": {}
+}

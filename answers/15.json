@@ -1,0 +1,12 @@
+{
+  "title": "Question 15:",
+  "description": "How do Earn work?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "This was the first product launched by Yearn.\nIt programmatically shifts stablecoin balances between various lending providers within the DeFi space, generating interest for the deposited asset.\n\nYou can get a more detailed explanation [here](https://yearn.gitbook.io/docs-yearn-finance/v/docs-v2/products/earn)"
+    }
+  ],
+  "footer": {}
+}

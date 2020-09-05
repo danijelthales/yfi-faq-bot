@@ -1,0 +1,13 @@
+{
+  "title": "Question 3:",
+  "description": "What does \"test in prod\" mean?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "Testing in prod refers to testing in production. It means Andre is shipping new products like Vaults before they go through adequate testing and security audits. By \"testing in prod\" YEARN is relying on the community to help and contribute to improvements."
+    }
+  ],
+  "image": "donate.png",
+  "footer": {}
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Question 12:",
+  "description": "How was the YFI token initial distribution?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "Typically a cryptocurrency project will run a pre-sale for their token prior to launch. This allows them to raise funds for development, marketing and other expenses. It's very similar to an angel investing round, where the earliest investors will receive the best price. Naturally this creates a dynamic where private investors have power over the public, leading many to question the legitimacy of other popular DeFi products.\n\nYearn Finance did the complete opposite. They released the entire supply of 30,000 $YFI at once. To earn $YFI you needed to provide liquidity to one of three pools. Incredibly the founder Andre Cronje did not keep any $YFI for himself or the team. \n\nBy acting without greed, Yearn has created the first truly decentralized autonomous organization."
+    }
+  ],
+  "footer": {}
+}

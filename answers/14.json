@@ -1,0 +1,12 @@
+{
+  "title": "Question 14:",
+  "description": "How do vaults work?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "There are two kind of vaults: yVaults and delegated yVaults.\nIts goal is to generate the highest risk adjusted return through various yield farming strategies."
+    }
+  ],
+  "footer": {}
+}

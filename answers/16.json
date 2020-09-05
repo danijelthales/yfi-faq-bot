@@ -1,0 +1,12 @@
+{
+  "title": "Question 16:",
+  "description": "How to deposit on a vault?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "Follow the steps detailed [here](https://yearn.gitbook.io/docs-yearn-finance/v/docs-v2/how-to-guides/how-to-participate-in-a-vault)"
+    }
+  ],
+  "footer": {}
+}

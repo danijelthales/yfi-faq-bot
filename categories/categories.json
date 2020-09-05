@@ -1,0 +1,37 @@
+[
+  {
+    "name": "YFI",
+    "desc": "General question about YFI",
+    "questions": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "name": "Vaults&Earn",
+    "desc": "General question about yEarn vaults",
+    "questions": [
+      14,
+      16,
+      15
+    ]
+  },
+  {
+    "name": "Governance",
+    "desc": "General question yEarn governance",
+    "questions": [
+      10,
+      17
+    ]
+  },
+  {
+    "name": "Community",
+    "desc": "Questions about yEarn community",
+    "questions": [
+      18,
+      13,
+      6
+    ]
+  }
+]

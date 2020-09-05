@@ -1,0 +1,13 @@
+{
+  "title": "Question 6:",
+  "description": "Who is Andre Cronje?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "Mythical man, creator of yearn.finance and YFI. \nFather of modern robo-agriculture.\n\nYou can find him [here](https://twitter.com/AndreCronjeTech)"
+    }
+  ],
+  "image": "andre.jpeg",
+  "footer": {}
+}
