@@ -862,9 +862,4 @@ setInterval(function () {
     getChart('ALL');
 }, 60 * 100 * 1000);
 
-setTimeout(getStakingInfo, 10 * 1000);
-setInterval(getStakingInfo, 60 * 1000);
-
-setInterval(getValidators, 20 * 1000);
-
 client.login(process.env.BOT_TOKEN);

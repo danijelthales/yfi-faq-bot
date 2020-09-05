@@ -130,5 +130,25 @@
   {
     "number": 18,
     "alias": "work"
+  },
+  {
+    "number": 9,
+    "alias": "yfi price"
+  },
+  {
+    "number": 8,
+    "alias": "eth price"
+  },
+  {
+    "number": 8,
+    "alias": "eth"
+  },
+  {
+    "number": 7,
+    "alias": "gas price"
+  },
+  {
+    "number": 7,
+    "alias": "gas"
   }
 ]
