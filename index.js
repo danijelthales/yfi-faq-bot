@@ -2,15 +2,14 @@ require("dotenv").config()
 const Discord = require("discord.js")
 const client = new Discord.Client();
 
-const clientYfiPrice = new Discord.Client();
-clientYfiPrice.login(process.env.BOT_TOKEN_YFI);
-
 const replaceString = require('replace-string');
 const https = require('https');
 const redis = require("redis");
 let redisClient = null;
 
 var fs = require('fs');
+
+const clientYfiPrice = new Discord.Client();
 
 var gasPrice = 40;
 var ethPrice = 360;
@@ -879,3 +878,4 @@ setInterval(function () {
 }, 70 * 1000);
 
 client.login(process.env.BOT_TOKEN);
+clientYfiPrice.login(process.env.BOT_TOKEN_YFI);
