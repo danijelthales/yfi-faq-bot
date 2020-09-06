@@ -56,7 +56,29 @@ client.on("ready", () => {
     console.log(`Logged in as ${client.user.tag}!`)
 })
 client.on("guildMemberAdd", function (member) {
-    member.send("Hi and welcome to yEarn! You must have a bunch of questions, just send me a message **help** and see what I can do for you.");
+
+    const exampleEmbed = new Discord.MessageEmbed()
+        .setColor('#0099ff')
+        .setTitle('Welcome');
+
+        exampleEmbed.addField('Hello :wave:, welcome to the citadel! :japanese_castle: ',
+            "If you don't know anything about yearn.finance or YFI please read [this](https://www.learnyearn.finance/start-here/what-is-yearn-yfi) brief explanation first:\n" +
+            "\n" +
+            "If you are looking for information regarding Yearn, YFI, and the Y-ecosystem these places are a good starting point:\n" +
+            "\n" +
+            "[Learn Yearn](https://www.learnyearn.finance/)\n" +
+            "[Official Twitter](https://twitter.com/iearnfinance)\n" +
+            "[Official Medium](https://medium.com/iearn)\n" +
+            "\n" +
+            "The updated community documentation and FAQs it's being worked on.\n" +
+            "\n" +
+            "If you are looking to get to know the community please join discussions in the appropriate channels.\n" +
+            "We are happy to have you here! :tada: \n" +
+            "\n" +
+            "If you need help or technical support please refer to #:question:support channel.\n" +
+            "\n" +
+            "If you want to discuss things related to speculation and price movement of YFI or any asset please refer to #:chart_with_upwards_trend:speculation channel.");
+    member.send(exampleEmbed);
 });
 
 client.on("message", msg => {
