@@ -2,6 +2,9 @@ require("dotenv").config()
 const Discord = require("discord.js")
 const client = new Discord.Client();
 
+const clientYfiPrice = new Discord.Client();
+clientYfiPrice.login(process.env.BOT_TOKEN_YFI);
+
 const replaceString = require('replace-string');
 const https = require('https');
 const redis = require("redis");
@@ -861,5 +864,18 @@ setInterval(function () {
 setInterval(function () {
     getChart('ALL');
 }, 60 * 100 * 1000);
+
+
+setInterval(function () {
+    clientYfiPrice.guilds.cache.forEach(function (value, key) {
+        try {
+            value.members.cache.get("752285072442261525").setNickname("$" + coingeckoUsd);
+            value.members.cache.get("752285072442261525").user.setActivity("eth=" + coingeckoEth + " btc=" + coingeckoBtc, {type: 'PLAYING'});
+        } catch (e) {
+            console.log(e);
+        }
+    });
+
+}, 70 * 1000);
 
 client.login(process.env.BOT_TOKEN);
