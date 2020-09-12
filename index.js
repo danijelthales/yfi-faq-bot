@@ -66,11 +66,10 @@ client.on("guildMemberAdd", function (member) {
             "\n" +
             "If you are looking for information regarding Yearn, YFI, and the Y-ecosystem these places are a good starting point:\n" +
             "\n" +
+            "[Official Community Documentation and FAQs](https://docs.yearn.finance/)\n" +
             "[Learn Yearn](https://www.learnyearn.finance/)\n" +
             "[Official Twitter](https://twitter.com/iearnfinance)\n" +
             "[Official Medium](https://medium.com/iearn)\n" +
-            "\n" +
-            "The updated community documentation and FAQs it's being worked on.\n" +
             "\n" +
             "If you are looking to get to know the community please join discussions in the appropriate channels.\n" +
             "We are happy to have you here! :tada: \n" +
