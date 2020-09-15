@@ -1,6 +1,12 @@
 {
   "title": "Question 9:",
-  "description": "What is the current YFI price?",
+  "description": "Where can I find the official documentation?",
   "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "You can find the official documentation [here](https://docs.yearn.finance/)"
+    }
+  ],
   "footer": {}
 }

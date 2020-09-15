@@ -5,9 +5,9 @@
   "fields": [
     {
       "title": "Answer:",
-      "value": "Testing in prod refers to testing in production. It means Andre is shipping new products like Vaults before they go through adequate testing and security audits. By \"testing in prod\" YEARN is relying on the community to help and contribute to improvements."
+      "value": "Test in prod refers to testing in production. It's a phrase Andre Cronje (creator of YFI) uses as a disclaimer for the products he builds.\nIt means Andre is shipping new products, like Vaults, before they go through exhaustive testing and security audits. This is why there is a disclaimer on every yearn product.\nThe concept of \"test in prod\" was also been embraced by the community, even seeing it on hoodies or tweets."
     }
   ],
-  "image": "donate.png",
+  "image": "test-in-prod.JPG",
   "footer": {}
 }

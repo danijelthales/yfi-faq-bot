@@ -1,7 +1,12 @@
 {
   "title": "Question 8:",
-  "description": "What is the current ETH price?",
+  "description": "How to make a YIP (Yearn improvement proposal)?",
   "color": "0099ff",
-  "url": "https://www.coingecko.com/en/coins/ethereum",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "This [tutotial](https://docs.yearn.finance/how-to-guides/how-to-make-a-yip) shows step-by-step proccess on how to create a YIP"
+    }
+  ],
   "footer": {}
 }

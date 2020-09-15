@@ -5,8 +5,9 @@
   "fields": [
     {
       "title": "Answer:",
-      "value": "Blue Kirby is YFI biggest fan.\nHe will lead us all the way until we flip BRK.A\nHe is also head of communications, a top notch marketer and the organizer of YFI's yearly party at Tokyo."
+      "value": "Blue Kirby is YFI biggest fan.\nHe will lead us all the way until [we flip BRK.A](https://yflippening.com/)\nHe is also head of communications, a top notch marketer and the organizer of YFI's yearly party at Tokyo."
     }
   ],
+  "image": "blue-kirby.png",
   "footer": {}
 }

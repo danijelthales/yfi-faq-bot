@@ -5,7 +5,7 @@
   "fields": [
     {
       "title": "Answer:",
-      "value": "Yearn.finance is a DeFi yield aggregator that runs on the Ethereum blockchain.\n\nYield aggregation refers to investing using the most current optimal strategy to maximize returns. The optimal strategy is constantly changing. \n\nYearn is the easiest way for consumers to earn interest and maximize their returns on their asset (DAI, ETH, BTC) while also saving money on transaction fees and time spent researching.\n\nIn some ways this makes Yearn similar to the roboadvisor products offered by Vanguard, Wealthfront and Betterment.\n\nYearn offers a suite of yield aggregation products:\n- Earn\n- Vaults\n- Yinsurance\n- Zap"
+      "value": "Yearn Finance is a suite of decentralized finance (DeFi) products focused on creating a simple way to generate high risk-adjusted returns for depositors of various assets via best-in-class lending protocols, liquidity pools, and community-made yield farming strategies on Ethereum.\n\nYearn current suite of products:\n- Earn\n- Vaults\n- Yinsurance\n- Zap"
     }
   ],
   "footer": {}

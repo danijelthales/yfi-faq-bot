@@ -1,11 +1,11 @@
 {
   "title": "Question 14:",
-  "description": "How do vaults work?",
+  "description": "What is a Vault and how does it work?",
   "color": "0099ff",
   "fields": [
     {
       "title": "Answer:",
-      "value": "There are two kind of vaults: yVaults and delegated yVaults.\nIts goal is to generate the highest risk adjusted return through various yield farming strategies."
+      "value": "Vaults are a yearn product that can be described as community-developed yield farming robots.\n\nYou can read more about it [here](https://docs.yearn.finance/products/yvaults)"
     }
   ],
   "footer": {}

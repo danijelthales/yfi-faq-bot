@@ -1,11 +1,11 @@
 {
   "title": "Question 15:",
-  "description": "How do Earn work?",
+  "description": "What is Earn and how does it work?",
   "color": "0099ff",
   "fields": [
     {
       "title": "Answer:",
-      "value": "This was the first product launched by Yearn.\nIt programmatically shifts stablecoin balances between various lending providers within the DeFi space, generating interest for the deposited asset.\n\nYou can get a more detailed explanation [here](https://yearn.gitbook.io/docs-yearn-finance/v/docs-v2/products/earn)"
+      "value": "Earn is a yearn product that performs profit switching for lending providers, moving your funds between dydx, Aave, Compound autonomously, always looking for the best interest\n\nYou can read more about it [here](https://docs.yearn.finance/products/earn)"
     }
   ],
   "footer": {}
