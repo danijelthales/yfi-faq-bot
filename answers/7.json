@@ -1,7 +1,12 @@
 {
   "title": "Question 7:",
-  "description": "What is the current gas price?",
+  "description": "How does governance work?",
   "color": "0099ff",
-  "url": "https://ethgasstation.info/",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "YFI holders govern the Yearn ecosystem and are eligble to receive a portion of protocol profits. Therefore, YFI represents a right to govern the platform and a claim on earnings. Profits are obtained from each of Yearn's products. You can read more about this [here](https://docs.yearn.finance/governance)"
+    }
+  ],
   "footer": {}
 }
