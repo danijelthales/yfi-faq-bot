@@ -109,6 +109,10 @@
   },
   {
     "number": 16,
+    "alias": "how to vault"
+  },
+  {
+    "number": 16,
     "alias": "join vault"
   },
   {
@@ -133,22 +137,26 @@
   },
   {
     "number": 9,
-    "alias": "yfi price"
+    "alias": "docs"
+  },
+  {
+    "number": 9,
+    "alias": "documentation"
   },
   {
     "number": 8,
-    "alias": "eth price"
+    "alias": "how to yip"
   },
   {
     "number": 8,
-    "alias": "eth"
+    "alias": "make yip"
+  },
+  {
+    "number": 8,
+    "alias": "create yip"
   },
   {
     "number": 7,
-    "alias": "gas price"
-  },
-  {
-    "number": 7,
-    "alias": "gas"
+    "alias": "governance"
   }
 ]
