@@ -542,7 +542,7 @@ client.on("message", msg => {
                 exampleEmbed.setDescription(answer.description);
                 exampleEmbed.setURL(answer.url);
 
-                if (command == "7") {
+                if (command == "19") {
 
                     https.get('https://gasprice.poa.network/', (resp) => {
                         let data = '';
@@ -570,7 +570,7 @@ client.on("message", msg => {
                         console.log("Error: " + err.message);
                     });
 
-                } else if (command == "9") {
+                } else if (command == "21") {
 
                     exampleEmbed.addField("USD (coingecko)", coingeckoUsd, false);
                     exampleEmbed.addField("ETH (coingecko):", coingeckoEth, false);
@@ -581,7 +581,7 @@ client.on("message", msg => {
                         msg.channel.send(exampleEmbed);
                     }
 
-                } else if (command == "8") {
+                } else if (command == "20") {
 
                     https.get('https://api.coingecko.com/api/v3/coins/ethereum', (resp) => {
                         let data = '';

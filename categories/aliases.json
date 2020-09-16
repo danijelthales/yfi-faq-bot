@@ -158,5 +158,17 @@
   {
     "number": 7,
     "alias": "governance"
+  },
+  {
+    "number": 19,
+    "alias": "gas"
+  },
+  {
+    "number": 20,
+    "alias": "eth"
+  },
+  {
+    "number": 21,
+    "alias": "yfi price"
   }
 ]
