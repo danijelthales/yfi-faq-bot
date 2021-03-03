@@ -1,0 +1,12 @@
+{
+  "title": "Question 22:",
+  "description": "What is yveCRV, and what can we do with it?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "yveCRV is the Yearn veCRV Backscratcher Vault token. The vault eternally locks user-deposited CRV, which is used to boost the various Yearn vaults with Curve strategies. In return, Curve fees, paid in 3CRV, that Yearn would have earned from weekly claims are given to those users. yveCRV may be deposited in the WETH-yveCRV pool in Sushiswap, and then staked in Onsen to earn SUSHI. WETH-yveCRV SLP may also be deposited in Pickle Jar, then staked to earn PICKLE. Depositing and staking in Sushiswap or Pickle will not allow you to claim the weekly 3CRV rewards. yveCRV must be held in your wallet to be able to claim weekly 3CRV rewards."
+    }
+  ],
+  "footer": {}
+}
