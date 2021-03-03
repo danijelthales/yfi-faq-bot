@@ -170,5 +170,13 @@
   {
     "number": 21,
     "alias": "yfi price"
+  },
+  {
+    "number": 22,
+    "alias": "yvecrv"
+  },
+  {
+    "number": 22,
+    "alias": "backscratcher"
   }
 ]
