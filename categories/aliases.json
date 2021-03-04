@@ -178,5 +178,13 @@
   {
     "number": 22,
     "alias": "backscratcher"
+  },
+  {
+    "number": 23,
+    "alias": "crv vault"
+  },
+  {
+    "number": 23,
+    "alias": "curve strategy"
   }
 ]
