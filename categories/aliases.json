@@ -186,5 +186,9 @@
   {
     "number": 23,
     "alias": "curve strategy"
+  },
+  {
+    "number": 24,
+    "alias": "harvest frequency"
   }
 ]
