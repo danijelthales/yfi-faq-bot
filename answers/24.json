@@ -5,7 +5,7 @@
   "fields": [
     {
       "title": "Answer:",
-      "value": "Some vaults do it every 5 hours or less, and some can take up to a week before harvests. The strategists harvest at the opportune time to maximize rewards. So if your vault hasnt harvested yet, don't worry because they are all working as intended, and it should soon."
+      "value": "Some vaults do it every few hours, and some can take up to a week. V2 vaults harvest is distributed over 6 hours to prevent sandwich attacks. Strategies harvest at the opportune time to maximize rewards. Generally, it is best to stay in the vault long term for the best yield accumulation."
     }
   ],
   "footer": {}
