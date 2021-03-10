@@ -190,5 +190,9 @@
   {
     "number": 24,
     "alias": "harvest frequency"
+  },
+  {
+    "number": 25,
+    "alias": "apy"
   }
 ]
