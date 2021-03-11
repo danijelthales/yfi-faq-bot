@@ -1,0 +1,12 @@
+{
+  "title": "Question 23:",
+  "description": "What does the crv prefix mean for the vault names?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "It means that the vault farms on the Curve pool with the associated token or pool name. The basic Curve strategy of locking 10% of CRV earned for boosts, selling the rest, then buying for more of the underlying Curve LP token, all in addition to the Curve pool's trading fees, applies to vaults with the crv prefix. crvBUSD farms on the Curve BUSD pool, crvSETH farms on the Curve SETH pool, crvGUSD farms on the Curve GUSD pool, and so on."
+    }
+  ],
+  "footer": {}
+}
