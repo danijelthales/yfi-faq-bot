@@ -178,5 +178,21 @@
   {
     "number": 22,
     "alias": "backscratcher"
+  },
+  {
+    "number": 23,
+    "alias": "crv vault"
+  },
+  {
+    "number": 23,
+    "alias": "curve strategy"
+  },
+  {
+    "number": 24,
+    "alias": "harvest frequency"
+  },
+  {
+    "number": 25,
+    "alias": "apy"
   }
 ]
