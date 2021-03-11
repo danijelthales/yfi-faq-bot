@@ -1,0 +1,12 @@
+{
+  "title": "Question 25:",
+  "description": "How accurate is the APY shown?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "The rate is based on when the strategy harvests which may be several times a day or only once every few days. Smaller vaults may harvest less frequently. Think of it as your money earning, but you only see it when the strategy claims it, which it does using K3PR network to optimize and automate claiming. For example, if the strategy harvested on 3/8 at 11:59PM, and you enter at 3/9 at 1:00AM, and the strategy doesn't harvest next until 3/10, it will look like you are earning 0%. It will take a few harvests before you start to match the APY listed on the site as that is calculated based on the average of the last few harvests."
+    }
+  ],
+  "footer": {}
+}
