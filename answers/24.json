@@ -1,0 +1,12 @@
+{
+  "title": "Question 24:",
+  "description": "How often does a vault harvest?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "Some vaults do it every few hours, and some can take up to a week. V2 vaults harvest is distributed over 6 hours to prevent sandwich attacks. Strategies harvest at the opportune time to maximize rewards. Generally, it is best to stay in the vault long term for the best yield accumulation."
+    }
+  ],
+  "footer": {}
+}
