@@ -1,11 +1,11 @@
 {
   "title": "Question 3:",
-  "description": "What does \"test in prod\" mean?",
+  "description": "When do I realize profits from a vault?",
   "color": "0099ff",
   "fields": [
     {
-      "title": "Answer:",
-      "value": "Test in prod refers to testing in production. It's a phrase Andre Cronje (creator of YFI) uses as a disclaimer for the products he builds.\nIt means Andre is shipping new products, like Vaults, before they go through exhaustive testing and security audits. This is why there is a disclaimer on every yearn product.\nThe concept of \"test in prod\" was also been embraced by the community, even seeing it on hoodies or tweets."
+      "title": "Answer: Your profits are compounded into the vault token over time. They can be withdrawn for your principal plus any earned profit.",
+      "value": ""
     }
   ],
   "image": "test-in-prod.JPG",

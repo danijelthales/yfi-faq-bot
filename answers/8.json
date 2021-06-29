@@ -1,11 +1,11 @@
 {
   "title": "Question 8:",
-  "description": "How to make a YIP (Yearn improvement proposal)?",
+  "description": "How do I participate in governance?",
   "color": "0099ff",
   "fields": [
     {
       "title": "Answer:",
-      "value": "This [tutotial](https://docs.yearn.finance/how-to-guides/how-to-make-a-yip) shows step-by-step proccess on how to create a YIP"
+      "value": "There is a multi-step process to getting involed that starts with a discussion, moves to a proposal and then a formal vote in the form of a YIP or YDP. See more details here: https://docs.yearn.finance/governance/proposal-process"
     }
   ],
   "footer": {}

@@ -1,11 +1,11 @@
 {
   "title": "Question 10:",
-  "description": "How to vote with YFI?",
+  "description": "How can I migrate vaults?",
   "color": "0099ff",
   "fields": [
     {
       "title": "Answer:",
-      "value": "This [tutotial](https://www.learnyearn.finance/governance-yips/how-to-vote-yfi) shows step-by-step proccess on how to vote with YFI."
+      "value": "When it is announced that you need to migrate vaults, there will be a popup on the user interface that gives you the option of withdrawing or migrating your funds."
     }
   ],
   "footer": {}

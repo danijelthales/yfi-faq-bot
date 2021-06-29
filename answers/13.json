@@ -1,11 +1,11 @@
 {
   "title": "Question 13:",
-  "description": "Who is Blue Kirby?",
+  "description": "Where can I find current strategy contracts?",
   "color": "0099ff",
   "fields": [
     {
       "title": "Answer:",
-      "value": "Blue Kirby is YFI biggest fan.\nHe will lead us all the way until [we flip BRK.A](https://yflippening.com/)\nHe is also head of communications, a top notch marketer and the organizer of YFI's yearly party at Tokyo."
+      "value": "On Yearn Watch: https://yearn.watch/"
     }
   ],
   "image": "blue-kirby.png",

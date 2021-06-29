@@ -1,11 +1,11 @@
 {
   "title": "Question 6:",
-  "description": "Who is Andre Cronje?",
+  "description": "What is the current fee structure",
   "color": "0099ff",
   "fields": [
     {
       "title": "Answer:",
-      "value": "Mythical man, creator of yearn.finance and YFI. \nFather of modern robo-agriculture.\n\nAndre is a software architect with 20 years of development experience. He moved into telecoms developing big data high-transactional infrastructure before delving into mobile security and cryptography. His last five years have been spent building FinTech solutions and leveraging blockchain technology to provide cost-reducing financial products to the unbanked in Africa.\n\n You can find him on Twitter [here](https://twitter.com/AndreCronjeTech) and listen to him as a guest on podcast episodes [here](https://docs.yearn.finance/faq#podcasts)"
+      "value": "At the time of writing, 2% is taken from your deposit per year, and 20% is taken from profits when harvested. \nFees are subject to change. More details can be found here \nhttps://docs.yearn.finance/yearn-finance/yvaults/overview#yvault-fee-structure"
     }
   ],
   "image": "andre.jpeg",

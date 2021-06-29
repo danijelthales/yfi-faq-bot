@@ -1,0 +1,12 @@
+{
+    "title": "Question 27:",
+    "description": "Is Yearn audited?",
+    "color": "0099ff",
+    "fields": [
+      {
+        "title": "Answer:",
+        "value": "See all of Yearn's audits here: https://docs.yearn.finance/resources/audits"
+      }
+    ],
+    "footer": {}
+  }

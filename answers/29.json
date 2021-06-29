@@ -1,0 +1,12 @@
+{
+    "title": "Question 29:",
+    "description": "I'm getting an error that says \"SafeERC20: low-level call failed\". How do I resolve this?",
+    "color": "0099ff",
+    "fields": [
+      {
+        "title": "Answer:",
+        "value": "This most often occurs when submitting a duplicate transaction. If you want to deposit $100 into a vault, you can submit that deposit as many times you want until one of those transactions is executed. \nAfterwards, the rest will show this error because you no longer have that $100 in your wallet."
+      }
+    ],
+    "footer": {}
+  }
