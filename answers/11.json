@@ -1,11 +1,11 @@
 {
   "title": "Question 11:",
-  "description": "How does yearn.finance make money?",
+  "description": "Why is gas so expensive?",
   "color": "0099ff",
   "fields": [
     {
-      "title": "Answer:",
-      "value": "Basically the yearn ecosystem offers different products (earn, vaults, insurance, etc) and charge a fee for this.\n\nA more detailed explanation (with examples) can be found [here](https://www.learnyearn.finance/start-here/yfi-revenue-model)"
+      "title": "Answer: Gas prices fluctuate and can be monitored with tools like Etherscan: https://ethereumprice.org/gas/ and Gas Now: https://www.gasnow.org/",
+      "value": ""
     }
   ],
   "footer": {}

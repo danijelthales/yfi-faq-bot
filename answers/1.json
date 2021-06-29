@@ -1,11 +1,11 @@
 {
   "title": "Question 1:",
-  "description": "How can I yield farm or earn $YFI?",
+  "description": "What are the risks of depositing or withdrawing with an asset that isn't native to the vault?",
   "color": "0099ff",
   "fields": [
     {
       "title": "Answer:",
-      "value": "The initial distribution of YFI was held during 1 week and was only available farming (providing liquidity) in 1 of the 3 pools created for this.\nAt this time no more $YFI is going to be minted so there isn't any way to farm it.\nCurrently the total supply is capped at the 30,000 already in circulation",
+      "value": "You can potentially lose 1% of your deposit and withdrawal to slippage. You also take on the risk of trusting Zapper's contracts are taking the most efficient route possible. Read here for more details: https://docs.yearn.finance/using-yearn#if-you-dont-have-the-required-token-for-the-vault-that-you-would-like-to-deposit-in",
       "inline": true
     }
   ],

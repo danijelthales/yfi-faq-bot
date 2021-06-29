@@ -1,11 +1,11 @@
 {
   "title": "Question 2:",
-  "description": "Where can I buy $YFI?",
+  "description": "Where can I go to see how my deposit is performing?",
   "color": "0099ff",
   "fields": [
     {
-      "title": "Answer:",
-      "value": "The easiest way to purchase $YFI is through a decentralized exchange like Uniswap. If you trade from $ETH into $YFI there will be minimal slippage.\nYou can also buy $YFI on Binance, Coinbase, Huobi, Okex, FTX and Poloniex. Always be cautious when using centralized exchanges."
+      "title": "Answer: Tools to track your funds can be found here \nhttps://docs.yearn.finance/using-yearn#tools-to-track-your-funds",
+      "value": ""
     }
   ],
   "footer": {}

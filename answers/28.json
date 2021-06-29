@@ -1,0 +1,12 @@
+{
+    "title": "Question 28:",
+    "description": "How do I make a vault token appear in my wallet?",
+    "color": "0099ff",
+    "fields": [
+      {
+        "title": "Answer:",
+        "value": " On the https://yearn.finance user interface, click the name of the vault that you deposited in. \nThis will take you to to the Etherscan page for the vault. Click on the \"Tracker\" link in the \"More Info\" box to find the vault token page. Copy the address from there and follow your wallet's instructions on adding a custom token \nHere's an example using MetaMask: https://docs.yearn.finance/resources/guides/how-to-add-a-custom-token-to-metamask \nAlternatively, you can check through https://zapper.fi"
+      }
+    ],
+    "footer": {}
+  }

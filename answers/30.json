@@ -1,0 +1,12 @@
+{
+    "title": "Question 31:",
+    "description": "I paid gas for a deposit, but it didn't go through, why is that?",
+    "color": "0099ff",
+    "fields": [
+      {
+        "title": "Answer:",
+        "value": "You pay gas even if a transaction fails. This can happen if the price of gas increased shortly after the transaction was submitted."
+      }
+    ],
+    "footer": {}
+  }

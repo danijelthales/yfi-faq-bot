@@ -1,11 +1,11 @@
 {
   "title": "Question 7:",
-  "description": "How does governance work?",
+  "description": "How is vault growth calculated?",
   "color": "0099ff",
   "fields": [
     {
       "title": "Answer:",
-      "value": "YFI holders govern the Yearn ecosystem and are eligble to receive a portion of protocol profits. Therefore, YFI represents a right to govern the platform and a claim on earnings. Profits are obtained from each of Yearn's products. You can read more about this [here](https://docs.yearn.finance/governance)"
+      "value": "The ROI presented is a current estimation based on data since the yVault's inception. If performance remains constant, after 1 year you will receive the displayed ROI. "
     }
   ],
   "footer": {}
