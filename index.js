@@ -749,7 +749,7 @@ function handleGasSubscription() {
 
 }
 
-setInterval(handleGasSubscription, 60 * 1000);
+// setInterval(handleGasSubscription, 60 * 1000);
 
 
 const puppeteer = require('puppeteer');
